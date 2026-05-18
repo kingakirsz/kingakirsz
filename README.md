@@ -1,7 +1,4 @@
 
-<div align="center">
-  <img src="./img/banner_pink.gif" width="100%">
-</div>
 <h1 align="center">Hi, I'm Kinga! <img src="./img/paw.gif" height="28"></h1>
 <p align="center">
   CS Student, Developer & Digital Artist <img src="./img/laptop.gif" height="18"><br>
