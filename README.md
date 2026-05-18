@@ -29,9 +29,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-<div align="center">
-  <img src="./img/divider.gif" width="100%">
-</div>
 
 <div align="center">
   <img src="img/GDG.jpeg" alt="GDG on Campus PW" height="300px">
