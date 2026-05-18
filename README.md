@@ -29,13 +29,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### Statistics <img src="./img/heart.gif" height="22">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kingakirsz&show_icons=true&theme=rose_pine&hide_border=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingakirsz&layout=compact&theme=rose_pine&hide_border=true" height="150">
-</div>
-
 <div align="center">
   <img src="./img/divider.gif" width="100%">
 </div>
